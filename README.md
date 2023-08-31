@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 <hr>
 <div align="center">
-🐸Learning
+🐱‍💻Learning
 </div>
 <br>
 <div align="center">
