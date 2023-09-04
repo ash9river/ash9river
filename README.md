@@ -1,7 +1,10 @@
 ### 👋
 
+<div align="center">
 💬Contact💬
-<div align="center">ash9river@gmail.com</div>
+<br>
+ash9river@gmail.com
+</div>
 
 <!--
 **ash9river/ash9river** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
