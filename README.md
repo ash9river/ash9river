@@ -1,11 +1,4 @@
 ### 👋
-
-<div align="center">
-💬Contact💬
-<br>
-ash9river@gmail.com
-</div>
-
 <!--
 **ash9river/ash9river** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="mailto:메일@주소><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:메일@주소"/></a>
@@ -55,4 +48,11 @@ Here are some ideas to get you started:
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ash9river)](https://solved.ac/ash9river/)
 
+</div>
+
+
+<div align="center">
+💬Contact💬
+<br>
+ash9river@gmail.com
 </div>
