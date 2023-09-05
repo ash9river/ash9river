@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ash9river)](https://solved.ac/ash9river/)
 
 </div>
-<br><br><br>
 <hr>
 <div align="center">
 💬Contact💬
