@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 💬Contact💬
 <br>
   
-<h3>
+<h3 align="center">
 ash9river@gmail.com
 </h3>
 </div>
