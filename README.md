@@ -54,5 +54,7 @@ Here are some ideas to get you started:
 💬Contact💬
 <br>
   
-### ash9river@gmail.com
+<h3>
+ash9river@gmail.com
+</h3>
 </div>
