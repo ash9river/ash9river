@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 🌌PS🌌
   <br><br>
 </div>
-<div align="center>
+<div displsy="flex" justify-content="center" align="center>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ash9river)](https://solved.ac/ash9river/)
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 💬Contact💬
 <br>
   
-<h3 displsy="flex" justify-content="center" align="center">
+<h3 align="center">
 ash9river@gmail.com
 </h3>
 </div>
