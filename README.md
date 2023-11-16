@@ -42,10 +42,12 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <div align="center">
-🌌PS🌌
+🌌P🌌
   <br><br>
 </div>
 <div displsy="flex" justify-content="center" align="center>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash9river&show_icons=true&theme=radical)
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ash9river)](https://solved.ac/ash9river/)
 
