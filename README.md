@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <br><br>
 </div>
 
-![Ash9river's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash9river&show_icons=true&theme=radical)
+![Ash9river's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash9river&show_icons=true&theme=cobalt)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ash9river)](https://solved.ac/ash9river/)
 
 <hr>
