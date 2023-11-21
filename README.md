@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <div align="center">
-🌌Development status🌌
+🌌Development Status🌌
   <br><br>
 </div>
 
