@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 <br>
   
 <h3 align="center">
-ash9river@gmail.com
+  <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ash9river@gmail.com"/>
 </h3>
 </div>
