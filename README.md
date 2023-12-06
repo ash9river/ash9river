@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <hr>
-<div align="center">
+<div align="center" margin="1rem">
 🌌Development Status🌌
   <br><br>
 </div>
