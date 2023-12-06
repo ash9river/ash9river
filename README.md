@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 <br>
   
 <h3 align="center">
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ash9river@gmail.com"/>
+  
+[Gmail]("https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ash9river@gmail.com")](mailto:ash9river@gmail.com)
+
 </h3>
 </div>
