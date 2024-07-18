@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Tistory](https://github-readme-tistory-card.vercel.app/api/badge?name=ash9river)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory](https://github-readme-tistory-card.vercel.app/api/badge?name=ash9river)](https://ash9river.tistory.com)
 
 
 
