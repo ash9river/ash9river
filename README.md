@@ -1,4 +1,6 @@
+<!--
 [![내 프로필 Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fash9river%2F&count_bg=%2335DFDC&title_bg=%23CE1EEB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 
 <!--
 **ash9river/ash9river** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <div align="center">
 💡Skills
 </div>
@@ -43,17 +46,22 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
+-->
 <br>
 <hr>
+<!--
 <div align="center">
 🌌Development Status🌌
   <br><br>
 </div>
+-->
 
+<!--
 ![Ash9river's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash9river&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ash9river)](https://solved.ac/ash9river/)
+-->
 
-<hr>
+
 <div align="center">
 💬Contact💬
 <br>
